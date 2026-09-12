@@ -1,0 +1,30 @@
+[
+  {
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=85",
+    "linkUrl": "https://learn.microsoft.com/dotnet/desktop/wpf/",
+    "badge": "WPF • .NET",
+    "title": "Uma experiência desktop com aparência premium",
+    "subtitle": "Interface moderna, rápida e preparada para evoluir com o AppCell."
+  },
+  {
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1600&q=85",
+    "linkUrl": "https://dotnet.microsoft.com/apps/desktop",
+    "badge": ".NET DESKTOP",
+    "title": "Tecnologia que acompanha sua operação",
+    "subtitle": "Construa fluxos de atendimento com uma base sólida e elegante."
+  },
+  {
+    "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1600&q=85",
+    "linkUrl": "https://github.com/dotnet/wpf",
+    "badge": "ECOSSISTEMA",
+    "title": "Conecte dados, serviços e automações",
+    "subtitle": "O carrossel já aceita conteúdo vindo de uma API JSON externa."
+  },
+  {
+    "imageUrl": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1600&q=85",
+    "linkUrl": "https://learn.microsoft.com/visualstudio/",
+    "badge": "NÚCLEO TECH",
+    "title": "Um espaço de trabalho mais sofisticado",
+    "subtitle": "Glass, degradês e hierarquia visual sem abandonar o padrão WPF."
+  }
+]
